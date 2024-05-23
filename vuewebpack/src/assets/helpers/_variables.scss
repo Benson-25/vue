@@ -310,7 +310,7 @@ $dark:          $gray-900 !default;
 
 // scss-docs-start theme-colors-map
 $theme-colors: (
-  "primary":    $primary,
+  "primary":    $purple,
   "secondary":  $secondary,
   "success":    $success,
   "info":       $info,
@@ -1748,4 +1748,4 @@ $nested-kbd-font-weight:            null !default; // Deprecated in v5.2.0, remo
 
 $pre-color:                         null !default;
 
-@import "variables-dark"; // TODO: can be removed safely in v6, only here to avoid breaking changes in v5.3
+
